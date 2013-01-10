@@ -3,7 +3,7 @@
 
 RuhohSpec: "2.0.alpha"
 
-production_url: "http://sample.com"
+production_url: "http://grantr.github.com"
 base_path: "/"
 
 theme:

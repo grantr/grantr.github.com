@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Urs Technica
+tagline: Bears
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Grant Rodgers
+  email : grantr@gmail.com
+  github : grantr
+  twitter : grantr
   feedburner : feedname
 
 navigation :
